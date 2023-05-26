@@ -384,8 +384,8 @@
     (property "LCSC" "C59461" (at 62.23 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1f7890fa-331d-4fd8-840e-246799f8fb18))
-    (pin "2" (uuid e036f246-447e-41d8-af77-10bf4c309252))
+    (pin "1" (uuid a129d6e3-dbf4-4c2b-b022-57c74101e2cc))
+    (pin "2" (uuid f497423d-2497-4442-ac0d-c0916f19a660))
     (instances
       (project "mini_arduino_clone"
         (path "/8959ef53-e1d2-45fc-9f31-57ded4c60782/4145a3a2-0741-458b-baac-ba344c60dce3"
@@ -423,8 +423,8 @@
     (property "LCSC" "C59461" (at 31.75 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fdf314b0-6be3-44d0-9bfa-b49846eb59b0))
-    (pin "2" (uuid c4698530-8cd5-40c8-b378-2715962891e0))
+    (pin "1" (uuid a6d6bc32-27ec-4c09-9217-7f2da12f5771))
+    (pin "2" (uuid 4a6a2c3c-2764-4db4-b920-21658b2537d4))
     (instances
       (project "mini_arduino_clone"
         (path "/8959ef53-e1d2-45fc-9f31-57ded4c60782/4145a3a2-0741-458b-baac-ba344c60dce3"
@@ -462,9 +462,9 @@
     (property "LCSC" "C6186" (at 48.26 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid eb59d5f3-1fd3-489d-b2f4-e161022575a1))
-    (pin "2" (uuid 852ed0d0-255b-4a4a-b3b7-9ce5f2f7ed47))
-    (pin "3" (uuid 558a3f87-85ad-4047-810d-697393801591))
+    (pin "1" (uuid 1a7006b0-d9f8-4e09-932b-ff62a4a08037))
+    (pin "2" (uuid 5f1a2c4b-ea41-4146-a6f2-eaeea2819a4a))
+    (pin "3" (uuid 39612aa1-6255-4324-9290-16022fd4a64d))
     (instances
       (project "7-segment-display-controller"
         (path "/a2f2828e-5f72-4b22-816e-2a917e094849/c00112e0-5cba-4523-90e3-b5cf2c2c166f"
