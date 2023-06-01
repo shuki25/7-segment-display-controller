@@ -311,7 +311,7 @@
     (property "Datasheet" "~" (at 29.21 36.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b162820a-0f28-4554-96f4-d83fc7b0f975))
+    (pin "1" (uuid 513635b5-7e44-421f-af26-d1507dbf1b23))
     (instances
       (project "mini_arduino_clone"
         (path "/8959ef53-e1d2-45fc-9f31-57ded4c60782/4145a3a2-0741-458b-baac-ba344c60dce3"
@@ -346,7 +346,7 @@
     (property "Datasheet" "" (at 48.26 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1e6009e2-fe17-45ce-bcac-a8240d36efba))
+    (pin "1" (uuid 76f38931-14f3-4a20-8433-51cb939c200c))
     (instances
       (project "mini_arduino_clone"
         (path "/8959ef53-e1d2-45fc-9f31-57ded4c60782/4145a3a2-0741-458b-baac-ba344c60dce3"
@@ -384,8 +384,8 @@
     (property "LCSC" "C59461" (at 62.23 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a129d6e3-dbf4-4c2b-b022-57c74101e2cc))
-    (pin "2" (uuid f497423d-2497-4442-ac0d-c0916f19a660))
+    (pin "1" (uuid 8911ee81-ee1e-4280-87fa-3d75e89a3cd6))
+    (pin "2" (uuid bfe68d67-c67e-4f51-b4ce-f30bb6229afb))
     (instances
       (project "mini_arduino_clone"
         (path "/8959ef53-e1d2-45fc-9f31-57ded4c60782/4145a3a2-0741-458b-baac-ba344c60dce3"
@@ -423,8 +423,8 @@
     (property "LCSC" "C59461" (at 31.75 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a6d6bc32-27ec-4c09-9217-7f2da12f5771))
-    (pin "2" (uuid 4a6a2c3c-2764-4db4-b920-21658b2537d4))
+    (pin "1" (uuid 06d7610b-1ff4-4406-bafd-8926dc150aa5))
+    (pin "2" (uuid 7bd668ab-a5c5-44eb-bcfb-8e78919fa064))
     (instances
       (project "mini_arduino_clone"
         (path "/8959ef53-e1d2-45fc-9f31-57ded4c60782/4145a3a2-0741-458b-baac-ba344c60dce3"
@@ -462,9 +462,9 @@
     (property "LCSC" "C6186" (at 48.26 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1a7006b0-d9f8-4e09-932b-ff62a4a08037))
-    (pin "2" (uuid 5f1a2c4b-ea41-4146-a6f2-eaeea2819a4a))
-    (pin "3" (uuid 39612aa1-6255-4324-9290-16022fd4a64d))
+    (pin "1" (uuid f7d4b0fb-e48f-471b-91a6-2297c90efcfb))
+    (pin "2" (uuid 9f3dde7c-5599-4cdc-b6e3-afc43e126d5a))
+    (pin "3" (uuid c3cbf819-bdcb-4d22-8fde-a306806f41c1))
     (instances
       (project "7-segment-display-controller"
         (path "/a2f2828e-5f72-4b22-816e-2a917e094849/c00112e0-5cba-4523-90e3-b5cf2c2c166f"
