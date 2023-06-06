@@ -6038,7 +6038,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x02") (at 76.2 46.99 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 484d4377-afdc-4a39-9a5d-172c405dbaf8)
     (property "Reference" "J107" (at 76.2 41.91 0)
       (effects (font (size 1.27 1.27)))
@@ -6344,7 +6344,7 @@
   )
 
   (symbol (lib_id "User Symbols:OLED_I2C") (at 33.02 80.01 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 5d0c7a70-cae9-44da-b25e-3dd43b028e0a)
     (property "Reference" "OLED101" (at 29.21 69.85 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6356,6 +6356,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 33.02 80.01 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC" "" (at 33.02 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 49ca8719-4dd2-4ada-97b5-b5a0f108e70e))
