@@ -4726,8 +4726,8 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 45688619-67a4-4f2c-aa4e-e5617f4be221)
   )
-  (text "NRST is internally pulled-up.\nPull to ground to reset.\n\nBOOT0 Pin Selection:\n0 = Load from main flash memory\n1 = Programming via UART/USB\n\nUse DIP to change program settings."
-    (at 128.27 181.61 0)
+  (text "NRST is internally pulled-up.\nPull to ground to reset.\n\nBOOT0 Pin Selection:\n0 = Load from main flash memory\n1 = Programming via UART/USB\n\nUse DIP to change program settings.\n\nIf EEPROM is high, it is write protected."
+    (at 128.27 185.42 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5230998e-788e-4fce-9ac5-e2fea359228e)
   )

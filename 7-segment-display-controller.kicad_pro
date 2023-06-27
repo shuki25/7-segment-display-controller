@@ -463,7 +463,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "USB Data",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(204, 102, 0)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.8,
@@ -474,7 +474,10 @@
     "meta": {
       "version": 3
     },
-    "net_colors": null,
+    "net_colors": {
+      "+5V": "rgb(194, 194, 0)",
+      "VBUS": "rgb(255, 255, 194)"
+    },
     "netclass_assignments": null,
     "netclass_patterns": [
       {
