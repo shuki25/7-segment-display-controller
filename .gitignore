@@ -30,3 +30,4 @@ fp-info-cache
 \#auto_saved_files\#
 .DS_Store
 board2pdf.config.ini
+*.lck
